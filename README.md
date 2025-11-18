@@ -1,6 +1,7 @@
 # Mini-projeto POO Aulas 01-04 
-arie Katiana Pierre
-ADS — Segundo Período
+Aluno: Marie Katiana Pierre
+Curso: ADS — Segundo Período
+Turma: SPL0400102NNA
 
 
 # Mini-Projeto POO — Aulas 01 a 04
@@ -135,9 +136,4 @@ Midia
      ├── temporadas : int
      ├── episodiosPorTemporada : int
      └── +exibirResumo()
-
-
-
-Marie Katiana Pierre
-ADS — Segundo Período
 
